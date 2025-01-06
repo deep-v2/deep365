@@ -1,0 +1,27 @@
+##############################################################
+
+
+
+ ██████╗ ███████╗███████╗██████╗ ██████╗  ██████╗ ███████╗
+ ██╔══██╗██╔════╝██╔════╝██╔══██╗╚════██╗██╔════╝ ██╔════╝
+ ██║  ██║█████╗  █████╗  ██████╔╝ █████╔╝███████╗ ███████╗
+ ██║  ██║██╔══╝  ██╔══╝  ██╔═══╝  ╚═══██╗██╔═══██╗╚════██║
+ ██████╔╝███████╗███████╗██║     ██████╔╝╚██████╔╝███████║
+ ╚═════╝ ╚══════╝╚══════╝╚═╝     ╚═════╝  ╚═════╝ ╚══════╝ v1.0
+
+
+
+VOCÊ PRECISA DAR PRIVILÉGIOS DE ADMINISTRADOR PARA QUE FUNCIONE!
+
+##############################################################
+
+Olá, obrigado por baixar meu programa, só queria dizer isso
+se você baixou este programa de algum lugar diferente do GitHub ou
+um link no meu canal do YouTube, pode ser um vírus! O programa
+original não possui nenhum tipo de malware e é um projeto simples
+para excluir aquele logotipo irritante que diz "Ativar Windows" para
+grátis, por favor apoie o projeto já que dediquei muito tempo a ele
+meu tempo e esforço, isso é tudo que eu queria dizer, obrigado :D
+
+- deep
+(O arquivo executável com a língua portuguesa é "deep365_POR.exe")
